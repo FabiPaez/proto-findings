@@ -21,9 +21,6 @@ La web queda en `http://127.0.0.1:5173` y la API en `http://127.0.0.1:4000`.
 
 Credenciales iniciales de admin, si no cambia `.env`:
 
-- Email: `admin@ofiju.local`
-- Clave: `Cambiar123!`
-
 ## Roles
 
 - Usuarios generales: pueden cargar reportes y ver el estado de todos los hallazgos.
